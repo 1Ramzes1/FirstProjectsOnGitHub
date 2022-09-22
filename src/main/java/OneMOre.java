@@ -5,8 +5,8 @@ import java.util.*;
 
 public class OneMOre {
     public static void main(String[] args) {
-        System.out.println("Hello GitHub");
-        System.out.println("Redactoring");
+        System.out.println("Hello World");
+
     }
 }
 
